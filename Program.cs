@@ -3,6 +3,7 @@
 //в которой все заглавные буквы заменены на строчные.
 
 string str = "asdFadGewTkj";
+Console.WriteLine(str);
 // Вариант 1
 string resultString =str.ToLower();
 Console.WriteLine(resultString);
